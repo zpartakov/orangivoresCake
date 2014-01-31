@@ -1,0 +1,464 @@
+"Project-Id-Version: Atable-fre\n"
+"POT-Creation-Date: 2012-09-27 06:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fred Radeff <fradeff@akademia.ch>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas pu être enregistré. Merci d'essayer à nouveau."
+
+msgid "This field cannot be left blank."
+msgstr "Problème avec ce champ."
+
+msgid "Invalid %s"
+msgstr "Invalide %s"
+
+msgid "The %s has been saved"
+msgstr "%s a été sauvegardé"
+
+msgid "The %s could not be saved. Please, try again."
+msgstr "L'enregistrement %s n'a pas pu être sauvegardé. Merci d'essayer à nouveau."
+
+msgid "Invalid id for %s"
+msgstr "id invalide pour %s"
+
+msgid "%s deleted"
+msgstr "%s effacé"
+
+msgid "%s was not deleted"
+msgstr "%s n'a pas été effacé"
+
+msgid "Invalid User."
+msgstr "Utilisateur invalide"
+
+msgid "The User has been saved"
+msgstr "L'utilisateur a été sauvegardé"
+
+msgid "The User could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas été sauvegardé"
+
+msgid "Invalid User"
+msgstr "Utilisateur invalide"
+
+msgid "Invalid id for User"
+msgstr "Id utilisateur non valide"
+
+msgid "User deleted"
+msgstr "utilisateur effacé"
+
+msgid "Add %s"
+msgstr "Ajouter %s"
+
+msgid "Actif"
+msgstr "Actif"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "List %s"
+msgstr "Afficher %s"
+
+msgid "Actifs"
+msgstr "Actifs"
+
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Confirmer la suppression de # %s?"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Edit"
+msgstr "Modifier"
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Page %page% de %pages%, montre l'enregistrement %current% d'un total de %count% enregistrements, commence à l'enregistrement %start%, finit à l'enregistrement %end%"
+
+msgid "previous"
+msgstr "précédent"
+
+msgid "next"
+msgstr "suivant"
+
+msgid "New %s"
+msgstr "Nouveau %s"
+
+msgid "Id"
+msgstr "Id"
+#####
+msgid "New Agrume"
+msgstr "Nouvel agrume"
+
+msgid "Date Fin"
+msgstr "Date de fin"
+
+msgid "Delete %s"
+msgstr "Effacer %s"
+
+msgid "Assistant"
+msgstr ""
+
+msgid "Assistants"
+msgstr ""
+
+msgid "Noms"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Telephone"
+msgstr "Téléphone"
+
+msgid "Bureau"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Nouvelle demande"
+msgstr ""
+
+msgid "Equipement"
+msgstr "Équipement"
+
+msgid "Soumettre"
+msgstr ""
+
+msgid "Equipements"
+msgstr "Équipements"
+
+msgid "Voir"
+msgstr ""
+
+msgid "Modifier"
+msgstr ""
+
+msgid "Supprimer"
+msgstr ""
+
+msgid "Confirmer la suppression de # %s?"
+msgstr ""
+
+msgid "Page %page% de %pages%, %current% enregistrements d'un total de %count%, commence à l'enregistrement %start%, finit à l'enregistrement %end%"
+msgstr ""
+
+msgid "précédent"
+msgstr "précédent"
+
+msgid "suivant"
+msgstr "suivant"
+
+msgid "Demande d'équipement"
+msgstr "Demande d'équipement"
+
+msgid "Soumis par"
+msgstr "Soumis par"
+
+msgid "Le"
+msgstr ""
+
+msgid "Responsable"
+msgstr ""
+
+msgid "Objet"
+msgstr ""
+
+msgid "Quantité"
+msgstr ""
+
+msgid "Prix"
+msgstr ""
+
+msgid "Prix Def"
+msgstr ""
+
+msgid "Priorité"
+msgstr ""
+
+msgid "Rubrique"
+msgstr ""
+
+msgid "Matériel destiné à"
+msgstr ""
+
+msgid "Destinataire"
+msgstr ""
+
+msgid "Justificatif"
+msgstr ""
+
+msgid "Annexes"
+msgstr ""
+
+msgid "Statut"
+msgstr ""
+
+msgid "Toutes les demandes"
+msgstr ""
+
+msgid "Responsables"
+msgstr ""
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Utilisateurs"
+msgstr "Utilisateurs"
+
+msgid "Sn"
+msgstr ""
+
+msgid "Role"
+msgstr "Rôle"
+
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "August"
+msgstr "Août"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "December"
+msgstr "Décembre"
+
+msgid "notempty"
+msgstr "Champs requis"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Countries"
+msgstr "Pays"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Prep"
+msgstr "Note"
+
+msgid "Pict"
+msgstr "Image"
+
+msgid "Market"
+msgstr "Marché (commissions)"
+
+msgid "Hear"
+msgstr "Écouter"
+
+msgid "Libelle"
+msgstr "Libellé"
+
+msgid "Definition1"
+msgstr "Définition"
+
+msgid "Definition2"
+msgstr "Audio"
+
+msgid "Definition3"
+msgstr "Vidéo"
+
+ 
+msgid "Difficulte"
+msgstr "Difficulté"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Date Created"
+msgstr "Création"
+
+msgid "Last Update"
+msgstr "Modification"
+
+msgid "Saison"
+msgstr "Saison"
+
+msgid "Rem"
+msgstr "Note"
+
+msgid "Related Recettes"
+msgstr "Recettes du menu"
+
+msid "Nombre de personnes"
+msgstr "Nombre de personne(s)"
+
+msid "activate js"
+msgstr "Activez JavaScript! si vous voulez bénéficiez de toutes les fonctionnalités de ce site"
+
+msgid "New Recette"
+msgstr "Nouvelle recette"
+
+msgid "Related Recettes"
+msgstr "Recettes associées"
+
+msgid "Recipe"
+msgstr "Recette"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "List Glossaires"
+msgstr "> Liste des glossaires"
+
+msgid "Posts"
+msgstr "Blog"
+
+msgid "Post"
+msgstr "Billet"
+
+msgid "List Comments"
+msgstr "Voir leŝ commentaires"
+
+msgid "New Comment"
+msgstr "Nouveau commentaire"
+
+msgid "Related Comments"
+msgstr "Commentaires liés à ce billet"
+
+msgid "Add Comment"
+msgstr "Ajouter un commentaire"
+
+msgid "BodyPost"
+msgstr "Message"
+
+msgid "Created"
+msgstr "Publié le:"
+
+msgid "Most Recent Posts"
+msgstr "Blog: billets les plus récents"
+
+#analyse de sites
+
+msgid "Edit Analyse Site"
+msgstr "Modifier analyse site"
+
+msgid "Delete Analyse Site"
+msgstr "Supprimer analyse site"
+
+msgid "List Analyse Sites"
+msgstr "Liste analyse sites"
+
+msgid "New Analyse Site"
+msgstr "Nouvelle analyse site"
+
+msgid "Soft"
+msgstr "Logiciel"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Calc Invites"
+msgstr "Calcul invités"
+
+msgid "Calc Ingredients"
+msgstr "Calcul ingrédients (commissions)"
+
+msgid "Formats"
+msgstr "Formats"
+
+msgid "Langage"
+msgstr "Langage"
+
+msgid "Glossaire"
+msgstr "Glossaire"
+
+msgid "Icones"
+msgstr "Icônes"
+
+msgid "Graphisme"
+msgstr "Graphisme"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Video"
+msgstr "Vidéo"
+
+msgid "Sequencage"
+msgstr "Séquençage"
+
+msgid "Automatisation"
+msgstr "Automatisation"
+
+
+msgid "Facilite"
+msgstr "Facilité"
+
+msgid "Date Mod"
+msgstr "Date de la dernière modification"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+msgid "You are not authorized to access that location."
+msgstr "Espace protégé"
+
+msgid "New Commande"
+msgstr "Nouvelle commande"
+
+msgid "List Users"
+msgstr "Liste membres"
+
+msgid "New User"
+msgstr "Nouveau membre"
+
+msgid "List Livraisons"
+msgstr "Liste livraisons"
+
+msgid "New Livraison"
+msgstr "Nouvelle livraison"
+
+msgid "List Agrumes"
+msgstr "Liste agrumes"
+
+msgid "New Agrume"
+msgstr "Nouvel agrume"
+

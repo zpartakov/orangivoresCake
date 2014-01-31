@@ -1,0 +1,25 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+/** General Style Info **/
+body {
+	background: white;
+	color: black;
+	font-family: "frutiger linotype", "lucida grande", "verdana", sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 2%;
+}
+
+#leftnav, #header, #footer, .retour,
+html > body > div#container > div#menu > a > img,
+html > body > div#container > div#menu,
+html > body > div#container > div#content > div.actions,
+html > body > div#container > div#footer,
+html > body > div#container > div#content > div.commandes.index > table > tbody > tr > th.actions,
+html > body > div#container > div#content > div.commandes.index > table > tbody > tr > td.actions
+ {
+display: none;
+}
